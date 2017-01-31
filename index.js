@@ -1,6 +1,6 @@
 (function() {
 
-    var fetchMock = require('fetch-mock');
+    var fetchMock = require('fetch-mock/es5/server');
     var nodeFetch = require('node-fetch');
 
     var Request = nodeFetch.Request;
