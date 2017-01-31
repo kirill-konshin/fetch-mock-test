@@ -1,0 +1,16 @@
+{
+  "name": "fetch-mock-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fetch-mock": "5.9.3",
+    "node-fetch": "1.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
